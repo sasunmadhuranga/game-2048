@@ -39,3 +39,26 @@ Technologies:
 🟡 AWS Cloud
 
 🟡 DevOps
+
+## Architecture
+
+<p align="center">
+    <img src="screenshots/2048.png" width="600"/>
+</p>
+
+
+📸 Screenshots
+<p align="center">
+<img src="screenshots/1.png" width="600" />
+<img src="screenshots/2.png" width="600" />
+<img src="screenshots/3.png" width="600" />
+<img src="screenshots/4.png" width="600" />
+</p>
+
+
+Author
+
+Sasun Madhuranga
+
+GitHub: https://github.com/sasunmadhuranga
+
